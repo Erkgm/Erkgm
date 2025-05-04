@@ -18,8 +18,6 @@
 
 ---
 
-- 💡 **Em desenvolvimento**
-- 
 ## 💡 Projetos Acadêmicos
 
 - **Smart Class**  
